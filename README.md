@@ -1,4 +1,4 @@
-# RageQuit-RL
+# RageQuit2.0
 BakkesMod Plugin for Rocket League: Rage Quit
 Press Alt F4 in Rocket League to quit the game.
 
